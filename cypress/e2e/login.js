@@ -7,8 +7,8 @@ Given('que acesso o site da Iterasys', () => {
 })
 
 When('preencho minhas credenciais', () => {
-  cy.get('[name="username"]').should('be.visible').type(Cypress.env('email'))
-  cy.get('[name="password"]').type(Cypress.env('senha'))
+  cy.get('[name="username"]').should('be.visible').type.Cypress('email')
+  cy.get('[name="password"]').type.Cypress('senha')
 })
 
 When('clico em entrar', () => {

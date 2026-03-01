@@ -1,5 +1,7 @@
 # 🎥 Automação de Testes - Reprodução de Vídeo
 
+![Cypress Tests](https://github.com/ThamiresMarina/squad-145-sprint-03-automacao-video-aula/actions/workflows/ci.yml/badge.svg)
+
 Projeto de automação de testes E2E para validação de reprodução de vídeo no curso **Preparatório CTFL** da plataforma [Iterasys](https://iterasys.com/), desenvolvido com **Cypress** e **Cucumber (Gherkin)**.
 
 ---
